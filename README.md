@@ -1,4 +1,3 @@
-# ML-Models
-A machine learning colab notebooks 
+# ML Notes
 
-free notes for all ml devloper as revision purpose 
+  Hear i upload valuable contain that i think most important for any ml devloper with hand written nots that helps you to learn 
